@@ -38,7 +38,7 @@ muscle-fatigue-model/
 
 | Name | Section(s) |
 |---|---|
-| Shuanan | section 1 |
+| Shunan | section 1 |
 | Ayesha | section 2 |
 | Batoul | section 3 |
-| Batoul | section 4 |
+| Shunan | section 4 |
